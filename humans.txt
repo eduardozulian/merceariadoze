@@ -3,11 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Diego Prudêncio    
+    Etevan Petyk
+    Eduardo Zulian -- developer
 
 # TECHNOLOGY COLOPHON
 
