@@ -113,12 +113,14 @@ p {
     padding: 2em;
 }
 
+/* Intro */
 .section--intro {
     background: #000 url('../img/bg.jpg') no-repeat;
     background-size: cover;
     color: #fff;
 }
 
+/* Main text */
 .section--exp {
     background: #fec500;
     color: #6b5404;
@@ -128,10 +130,15 @@ p {
     text-transform: uppercase;
 }
 
+/* Colophon */
 .section--colophon {
     background: #e2802a;
     color: #fff;
     line-height: 2;
+}
+
+.site-logo--small {
+    margin: 1.5em 0;
 }
 
 
@@ -223,6 +230,11 @@ p {
     .section--exp {
         font-size: 1.125em;
         line-height: 2;
+    }
+
+    .contact-us {
+        margin: 0 auto 1.5em;
+        width: 40%;
     }
 }
 
