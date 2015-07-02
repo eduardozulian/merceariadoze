@@ -1,3 +1,6 @@
 $(document).ready(function() {
-    $('#fullpage').fullpage();
+    $('#fullpage').fullpage({
+    	autoScrolling: false,
+    	responsiveHeight: 700
+    });
 });
